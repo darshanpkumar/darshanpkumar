@@ -8,7 +8,7 @@
 * 👯 **I'm looking to collaborate on:** Open-source AI projects, LLM applications, and innovative software solutions.
 * 🤝 **I'm looking for help with:** Building scalable AI systems and production-ready GenAI applications.
 * 💬 **Ask me about:** Python, AI, LLMs, LangChain, Streamlit, Spring Boot, or Software Development.
-* 📫 **How to reach me: [darshandevadiga2005@gmail.com](mailto:darshandevadiga2005@gmail.com)
+* 📫 **How to reach me:** [darshandevadiga2005@gmail.com](mailto:darshandevadiga2005@gmail.com)
 * ⚡ **Fun fact:** I'm an aviation enthusiast ✈️ who loves building AI applications and learning new technologies.
 
   
