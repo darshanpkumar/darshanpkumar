@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Darshan P Kumar
+# Hi 👋, I'm Darshan P Kumar
 **A passionate AI & Software Engineering student, exploring the world of LLMs and Agentic AI.**
 
 📧 **Email:** [darshandevadiga2005@gmail.com](mailto:darshandevadiga2005@gmail.com)
